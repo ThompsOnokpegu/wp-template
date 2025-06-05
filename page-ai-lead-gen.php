@@ -36,7 +36,7 @@ Description: Landing page for AI-powered lead generation service targeting eleva
       </div>
       <!-- Placeholder for embedded video thumbnail -->
       <div class="mt-10">
-        <img src="https://via.placeholder.com/800x450" 
+        <img src="/img/ai-lead-gen-hero.webp" 
              alt="Demo Video Thumbnail" 
              class="mx-auto rounded-lg shadow-lg w-full max-w-2xl" />
       </div>
@@ -55,7 +55,7 @@ Description: Landing page for AI-powered lead generation service targeting eleva
       </p>
       <!-- Illustration placeholder -->
       <div class="mt-10">
-        <img src="https://via.placeholder.com/600x400" 
+        <img src="img/fraustrated-rep.webp" 
              alt="Frustrated sales rep buried in paperwork" 
              class="mx-auto rounded shadow-md w-full max-w-xl" />
       </div>
@@ -71,25 +71,25 @@ Description: Landing page for AI-powered lead generation service targeting eleva
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
         <!-- Feature Card 1 -->
         <div class="bg-gray-50 border border-gray-200 rounded-lg p-6 hover:shadow-lg transition">
-          <img src="https://via.placeholder.com/80" alt="Targeted AI Ads Icon" class="mx-auto mb-4" />
+          <img src="img/blueprint.webp" alt="Targeted AI Ads Icon" class="mx-auto mb-4" />
           <h3 class="text-xl font-bold uppercase mb-2">🎯 Targeted AI Ads</h3>
           <p>We run targeted ads that speak directly to your ideal clients&nbsp;— developers, architects, facility managers.</p>
         </div>
         <!-- Feature Card 2 -->
         <div class="bg-gray-50 border border-gray-200 rounded-lg p-6 hover:shadow-lg transition">
-          <img src="https://via.placeholder.com/80" alt="Automated Pre-Qualification Icon" class="mx-auto mb-4" />
+          <img src="img/chatbot.webp" alt="Automated Pre-Qualification Icon" class="mx-auto mb-4" />
           <h3 class="text-xl font-bold uppercase mb-2">🤖 Automated Pre-Qualification</h3>
           <p>Leads land in a chatbot or WhatsApp flow that <strong>asks qualifying questions automatically</strong> (budget, timeline, project type).</p>
         </div>
         <!-- Feature Card 3 -->
         <div class="bg-gray-50 border border-gray-200 rounded-lg p-6 hover:shadow-lg transition">
-          <img src="https://via.placeholder.com/80" alt="24/7 Follow-Up Icon" class="mx-auto mb-4" />
+          <img src="img/clock-chat.webp" alt="24/7 Follow-Up Icon" class="mx-auto mb-4" />
           <h3 class="text-xl font-bold uppercase mb-2">⏰ 24/7 Follow-Up</h3>
           <p>If someone doesn’t answer immediately, our AI-drip continues nurturing them until they’re ready to speak.</p>
         </div>
         <!-- Feature Card 4 -->
         <div class="bg-gray-50 border border-gray-200 rounded-lg p-6 hover:shadow-lg transition">
-          <img src="https://via.placeholder.com/80" alt="Sales-Ready Leads Icon" class="mx-auto mb-4" />
+          <img src="img/checklist-naira.webp" alt="Sales-Ready Leads Icon" class="mx-auto mb-4" />
           <h3 class="text-xl font-bold uppercase mb-2">📈 Sales-Ready Leads</h3>
           <p>You get a daily digest of <strong>5–15 leads</strong> (depending on your budget), each tagged with budget range, project location, and timeline.</p>
         </div>
@@ -149,7 +149,7 @@ Description: Landing page for AI-powered lead generation service targeting eleva
       </ul>
       <!-- Supporting illustration placeholder -->
       <div class="mt-10">
-        <img src="https://via.placeholder.com/700x400" 
+        <img src="img/ai-funnel.webp" 
              alt="AI funnel illustration" 
              class="mx-auto rounded shadow-md w-full max-w-2xl" />
       </div>
@@ -167,7 +167,7 @@ Description: Landing page for AI-powered lead generation service targeting eleva
         <p class="mt-4 font-bold">– Elevator Business Owner, Lagos</p>
         <!-- Client logo placeholder -->
         <div class="mt-6">
-          <img src="https://via.placeholder.com/200x50" 
+          <img src="img/business-owner.webp" 
                alt="Client Logo" 
                class="mx-auto" />
         </div>
