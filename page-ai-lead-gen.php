@@ -23,7 +23,7 @@ Description: Landing page for AI-powered lead generation service targeting eleva
       <h1 class="text-4xl sm:text-5xl font-extrabold uppercase leading-tight">
         Get <span class="bg-green-400 text-gray-900 px-2">LIVE AI-POWERED LEAD GEN</span> and 
         <span class="bg-green-400 text-gray-900 px-2">AUTOMATED QUALIFYING</span> for Elevator Companies in Nigeria&nbsp;— 
-        <span class="bg-yellow-300 text-gray-900 px-2">Only ₦7,000/Month</span>
+        <span class="bg-yellow-300 text-gray-900 px-2">Only ₦250,000/Month</span>
       </h1>
       <p class="mt-6 text-lg sm:text-xl text-red-600">
         I know you’re skeptical about AI-driven funnels, so I made a quick video that walks you through our entire system step-by-step.
