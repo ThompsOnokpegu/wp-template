@@ -24,17 +24,17 @@ $image_base = get_stylesheet_directory_uri() . '/assets/img/';
   <section class="bg-white py-16 px-4">
     <div class="max-w-4xl mx-auto text-center">
       <h1 class="text-4xl sm:text-5xl font-extrabold uppercase leading-tight">
-        Get <span class="bg-green-400 text-gray-900 px-2">LIVE AI-POWERED LEAD GEN</span> and 
-        <span class="bg-green-400 text-gray-900 px-2">AUTOMATED QUALIFYING</span> for Elevator Companies in Nigeria&nbsp;— 
-        <span class="bg-yellow-300 text-gray-900 px-2">Only ₦250,000/Month</span>
+      Consistently Attract <span class="bg-[#CCFF00] text-gray-900 px-2">High-Intent</span> Construction 
+        <span class="bg-[#CCFF00] text-gray-900 px-2">Leads</span> &nbsp;— 
+        <span class="bg-yellow-300 text-gray-900 px-2">Without Lifting a Finger</span>
       </h1>
       <p class="mt-6 text-lg sm:text-xl text-red-600">
-        I know you’re skeptical about AI-driven funnels, so I made a quick video that walks you through our entire system step-by-step.
+      We help elevator and smart building system companies in Nigeria capture and convert project-ready leads using AI-powered funnels — so your sales team focuses only on prospects that matter.
       </p>
       <div class="mt-8">
         <a href="https://wa.me/234YOURNUMBERHERE?text=Hi%20I%20want%20to%20see%20a%20demo%20of%20your%20AI-powered%20lead-gen%20service." 
-           class="inline-block bg-blue-700 hover:bg-blue-800 text-white font-bold uppercase py-4 px-8 rounded-lg transition">
-          👉 See the Demo (10m video)
+           class="inline-block bg-blue-700 hover:bg-blue-800 text-white font-bold uppercase py-6 px-10 rounded-full transition">
+          👉 Book Free Demo 
         </a>
       </div>
       <!-- Placeholder for embedded video thumbnail -->
