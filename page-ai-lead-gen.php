@@ -18,22 +18,23 @@ $image_base = get_stylesheet_directory_uri() . '/assets/img/';
   <title>AI-Powered Lead Gen Landing</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100 text-gray-900 font-sans leading-relaxed">
+<body class="bg-gray-100 text-black font-sans leading-relaxed">
 
   <!-- HERO SECTION -->
   <section class="bg-white py-16 px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <h1 class="text-4xl sm:text-5xl font-extrabold uppercase leading-tight">
-      Consistently Attract <span class="bg-[#CCFF00] text-gray-900 px-2">High-Intent</span> Construction 
-        <span class="bg-[#CCFF00] text-gray-900 px-2">Leads</span> &nbsp;— 
-        <span class="bg-yellow-300 text-gray-900 px-2">Without Lifting a Finger</span>
+      <p>AI-Powered, Automated Qualifying</p>
+      <h1 class="text-4xl sm:text-5xl font-extrabold uppercase leading-none">
+      Consistently Attract <span class="bg-[#CCFF00] text-black px-2">High-Intent</span> Construction 
+        <span class="bg-[#CCFF00] text-black px-2">Leads</span> &nbsp;— 
+        <span class="text-black px-2">Without Lifting a Finger</span>
       </h1>
-      <p class="mt-6 text-lg sm:text-xl text-red-600">
+      <p class="mt-6 text-lg sm:text-xl text-black">
       We help elevator and smart building system companies in Nigeria capture and convert project-ready leads using AI-powered funnels — so your sales team focuses only on prospects that matter.
       </p>
       <div class="mt-8">
         <a href="https://wa.me/234YOURNUMBERHERE?text=Hi%20I%20want%20to%20see%20a%20demo%20of%20your%20AI-powered%20lead-gen%20service." 
-           class="inline-block bg-blue-700 hover:bg-blue-800 text-white font-bold uppercase py-6 px-10 rounded-full transition">
+           class="inline-block bg-blue-700 hover:bg-blue-800 text-white font-bold uppercase py-6 px-12 rounded-full transition">
           👉 Book Free Demo 
         </a>
       </div>
@@ -49,7 +50,7 @@ $image_base = get_stylesheet_directory_uri() . '/assets/img/';
   <!-- PAIN SECTION -->
   <section class="bg-gray-50 py-16 px-4">
     <div class="max-w-3xl mx-auto text-center">
-      <h2 class="text-3xl sm:text-4xl font-extrabold uppercase mb-6">
+      <h2 class="text-3xl sm:text-4xl font-extrabold mb-6">
         Tired of Chasing Cold Leads That Go Nowhere?
       </h2>
       <p class="text-lg sm:text-xl font-medium">
@@ -68,7 +69,7 @@ $image_base = get_stylesheet_directory_uri() . '/assets/img/';
   <!-- WHAT WE DO (FEATURES) SECTION -->
   <section class="bg-white py-16 px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-3xl sm:text-4xl font-extrabold uppercase mb-8">
+      <h2 class="text-3xl sm:text-4xl font-extrabold mb-8">
         We Build You a Smart Lead System That Works While You Sleep
       </h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
